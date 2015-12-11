@@ -13,3 +13,7 @@ Allows control over what exactly to commit, to ensure that each commit is one lo
 The working directory consists of the files that you have checked out, in the state they are currently in.
 The repository is a collection of commits, containing information that allows you to revisit previous
 versions of the files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Add files as you complete significant work on them. But hold off committing until the combined changes
+constitute a logical change.
