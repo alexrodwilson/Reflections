@@ -1,0 +1,11 @@
+What happens when you initialize a repository?
+Why do you need to do it?
+
+When a repository is initialized an empty repository is created
+in the chosen folder.
+You need to do this before you add files to the repository and 
+the version control system.
+
+How is the staging area different from the working 
+directory and the repository?
+What value do you think it offers?
