@@ -9,3 +9,7 @@ the version control system.
 How is the staging area different from the working 
 directory and the repository?
 What value do you think it offers?
+Allows control over what exactly to commit, to ensure that each commit is one logical change.
+The working directory consists of the files that you have checked out, in the state they are currently in.
+The repository is a collection of commits, containing information that allows you to revisit previous
+versions of the files.
