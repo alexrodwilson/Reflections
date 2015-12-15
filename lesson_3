@@ -6,7 +6,7 @@ A fork is when a repository is cloned onto Github's servers.
 Forking can be used to allow one to work on a project when one is not on the list of approved collaborators, or to work on a project
 independently so that one can take it in a direction different from that chosen by the developers.
 A fork is usually used when you are developing independently, and you think it will not be appropriate to push commits to the origin.
-A clone is an exact copy of a repository, all the files and its history up til then
+A clone is an exact copy of a repository, all the files and its history up til that point in development.
 This is the initial step before you start working on a project: you need a copy of it on your machine 
 so you can start playing around with it.
 A branch is a thread of development. It allows you to make a copy of the original master branch, so you can work 
